@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(247, 250, 251);
+}
+
+h1{
+  font-family: 'Lato';
+  font-size: 5rem;
+  line-height: 1.2em;
+  letter-spacing: 2px;
+  text-indent: -3px;
+}
+
+h2{
+  font-family: 'Lato';
+  font-size: 4rem;
+  line-height: 1.2em;
+  letter-spacing: 1px;
+  text-indent: -2px;
+}
+
+h3{
+  font-family: 'Lato';
+  font-size: 30px;
+  line-height: 38px;
+  font-weight: 400;
+  text-shadow: white 2px 2px 1px;
+}
+
+p{
+  font-family: 'Lato';
+}
+
+.icon-dog{
+  background: url('../icons/glyphicons_002_dog.png');
+}
+
+.site-head{
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  text-align: center;
+  margin-bottom: 5rem;
+  color: #fff;
+  background: #303538 no-repeat center center;
+  background-size: cover;
+}
+
+.site-description{
+  margin: 0;
+  font-size: 1.8rem;
+  line-height: 1.5em;
+  font-weight: 400;
+  font-family: 'Lato';
+  letter-spacing: 0;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.15);
+}
