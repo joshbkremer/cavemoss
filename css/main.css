@@ -20,10 +20,9 @@ h2{
 
 h3{
   font-family: 'Lato';
-  font-size: 30px;
+  font-size: 20px;
   line-height: 38px;
   font-weight: 400;
-  text-shadow: white 2px 2px 1px;
 }
 
 p{
@@ -55,3 +54,30 @@ p{
   letter-spacing: 0;
   text-shadow: 0 1px 3px rgba(0,0,0,0.15);
 }
+.caveMossDescription {
+  float: left;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  text-align: center;
+  color: #fff;
+  background: #303538;
+}
+
+.caveImageDiv{
+  width: 450px;
+  border: none;
+  color: #394755;
+  font-family: 'Lato';
+  padding: 30px 0;
+  text-align: center;
+  float: left;
+}
+
+.imageList{
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
